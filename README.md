@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **basic cybersecurity projects**
 
-- 🌱 I’m currently learning **burpsuite**
+- 🌱 I’m currently learning **few basic Python projects related to cybersecurity**
 
 - 🤝 I’m looking for help with **cybersecurity projects**
 
