@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Narvasha</h1>
 <h3 align="center">A passionate BCA student from Nepal</h3>
 <img align="right" alt="Coding" width="400" src="https://cdnsm5-ss18.sharpschool.com/UserFiles/Servers/Server_211876/Image/Our%20Departments/Information%20Technology/Cybersecurity/Cybersecurity%20Awareness%20Month/2022/DataSecurity.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=narvasha&label=Profile%20views&color=0e75b6&style=flat" alt="narvasha" /> </p>
 
 - 🔭 I’m currently working on **basic cybersecurity projects**
 
