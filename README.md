@@ -11,6 +11,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/narvasha](https://github.com/narvasha)
 
 - 📫 How to reach me **narvasha@gmail.com**
+- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=narvasha&" alt="narvasha" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,4 +27,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=narvasha&show_icons=true&locale=en&layout=compact" alt="narvasha" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=narvasha&" alt="narvasha" /></p>
+
